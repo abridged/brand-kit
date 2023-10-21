@@ -7,7 +7,7 @@ Collab.Land is a low-cost community platform built to bring the next billion use
 
 [![GitHub contributors](https://img.shields.io/github/contributors/abridged/brand-kit)](https://github.com/abridged/brand-kit/graphs/contributors)
 [![GitHub commit activity](https://img.shields.io/github/commit-activity/w/abridged/brand-kit)](https://github.com/abridged/brand-kit/graphs/contributors)
-[![GitHub Stars](https://img.shields.io/github/stars/abridged/brand-kit.svg)](https://github.com/abridged/brand-kit/stargazers)
+[![GitHub Stars](https://img.shields.io/github/stars/abridged/brand-kit)](https://github.com/abridged/brand-kit/stargazers)
 ![GitHub repo size](https://img.shields.io/github/repo-size/abridged/brand-kit)
 
 <!-- Badge row 2 - links and profiles -->
