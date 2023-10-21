@@ -5,10 +5,10 @@ Collab.Land is a low-cost community platform built to bring the next billion use
 
 <!-- Badge row 1 - status -->
 
-[![GitHub contributors](https://img.shields.io/github/contributors/base-org/brand-kit)](https://github.com/base-org/brand-kit/graphs/contributors)
-[![GitHub commit activity](https://img.shields.io/github/commit-activity/w/base-org/brand-kit)](https://github.com/base-org/brand-kit/graphs/contributors)
-[![GitHub Stars](https://img.shields.io/github/stars/base-org/brand-kit.svg)](https://github.com/base-org/brand-kit/stargazers)
-![GitHub repo size](https://img.shields.io/github/repo-size/base-org/brand-kit)
+[![GitHub contributors](https://img.shields.io/github/contributors/abridged/brand-kit)](https://github.com/abridged/brand-kit/graphs/contributors)
+[![GitHub commit activity](https://img.shields.io/github/commit-activity/w/abridged/brand-kit)](https://github.com/abridged/brand-kit/graphs/contributors)
+[![GitHub Stars](https://img.shields.io/github/stars/abridged/brand-kit.svg)](https://github.com/abridged/brand-kit/stargazers)
+![GitHub repo size](https://img.shields.io/github/repo-size/abridged/brand-kit)
 
 <!-- Badge row 2 - links and profiles -->
 
@@ -20,8 +20,8 @@ Collab.Land is a low-cost community platform built to bring the next billion use
 
 <!-- Badge row 3 - detailed status -->
 
-[![GitHub pull requests by-label](https://img.shields.io/github/issues-pr-raw/base-org/brand-kit)](https://github.com/base-org/brand-kit/pulls)
-[![GitHub Issues](https://img.shields.io/github/issues-raw/base-org/brand-kit.svg)](https://github.com/base-org/brand-kit/issues)
+[![GitHub pull requests by-label](https://img.shields.io/github/issues-pr-raw/abridged/brand-kit)](https://github.com/abridged/brand-kit/pulls)
+[![GitHub Issues](https://img.shields.io/github/issues-raw/abridged/brand-kit.svg)](https://github.com/abridged/brand-kit/issues)
 
 ### Guide
 
