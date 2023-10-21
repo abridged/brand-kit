@@ -1,3 +1,5 @@
+This repo uses BASE as a reference https://github.com/base-org/brand-kit/tree/main
+
 # Collab.Land brand-kit
 Brand guide and logos for the Collab.Land brand.
 
@@ -20,8 +22,8 @@ Collab.Land is a low-cost community platform built to bring the next billion use
 
 <!-- Badge row 3 - detailed status -->
 
-[![GitHub pull requests by-label](https://img.shields.io/github/issues-pr-raw/abridged/brand-kit)](https://github.com/abridged/brand-kit/pulls)
-[![GitHub Issues](https://img.shields.io/github/issues-raw/abridged/brand-kit.svg)](https://github.com/abridged/brand-kit/issues)
+[![GitHub Pull Requests](https://img.shields.io/github/issues-pr-raw/abridged/brand-kit)](https://github.com/abridged/brand-kit/pulls)
+[![GitHub Issues](https://img.shields.io/github/issues-raw/abridged/brand-kit)](https://github.com/abridged/brand-kit/issues)
 
 ### Guide
 
