@@ -1,10 +1,10 @@
-This repo uses BASE as a reference https://github.com/base-org/brand-kit/tree/main
-and a lot of dynamic Badges https://shields.io/docs/
+<!-- This repo uses BASE as a reference https://github.com/base-org/brand-kit/tree/main
+and a lot of dynamic Badges https://shields.io/docs/ -->
 
 # Collab.Land brand-kit
 Brand guide and logos for the Collab.Land brand.
 
-Collab.Land is a low-cost community platform built to bring the next billion users onchain.
+Collab.Land is a low-cost community platform built to bring the next billion community members onchain.
 
 <!-- Badge row 1 - status -->
 
@@ -32,13 +32,17 @@ Please see [this PDF](guide/guide.pdf) overview.
 
 ### Logos
 
-![InProduct](logo/in-product/Base_Network_Logo.svg)
+![InProduct](logo/in-product/Logo-Mark-Color.svg)
 
-| Symbol                                            | Wordmark                                                |
-| ------------------------------------------------- | ------------------------------------------------------- |
-| ![SymbolBlue](logo/symbol/Base_Symbol_Blue.svg)   | ![WordmarkBlue](logo/wordmark/Base_Wordmark_Blue.svg)   |
-| ![SymbolWhite](logo/symbol/Base_Symbol_White.svg) | ![WordmarkWhite](logo/wordmark/Base_Wordmark_White.svg) |
-| ![SymbolBlack](logo/symbol/Base_Symbol_Black.svg) | ![WordmarkBlack](logo/wordmark/Base_Wordmark_Black.svg) |
+| Symbol                                                  | Wordmark                                             |
+| ------------------------------------------------------- | ---------------------------------------------------- |
+| ![LogoColor](logo/symbol/Logo-Mark-Color.svg)           | ![WordmarkColor](logo/wordmark/Full-Logo-Color.svg)  |
+| ![LogoWhite](logo/symbol/Logo-Mark-White-Outline.svg)   | ![WordmarkWhite](logo/wordmark/Full-Logo-White-Outline.svg)  |
+| ![LogoBlack](logo/symbol/Logo-Mark-Black-Outline.svg)           | ![WordmarkBlack](logo/wordmark/Full-Logo-Black-Outline.svg)  |
+| ![SimpleFaceWhite](logo/symbol/Logo-Simple-Face-White.svg)   |  |
+| ![SimpleFaceColor](logo/symbol/Logo-Simple-Face-Color.svg)           |  |
+
+
 
 ## Branding Kit Rules & Guidelines
 Thanks for your interest in showing your support for Mixer! You may use any of the branding within this folder as long as you adhere to the our Terms of Service, and the guidlines defined below:
