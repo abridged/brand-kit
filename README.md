@@ -15,7 +15,7 @@ Collab.Land is a low-cost community platform built to bring the next billion com
 
 <!-- Badge row 2 - links and profiles -->
 
-[![Website collab.land](https://img.shields.io/website-up-down-green-red/https/base.org.svg)](https://collab.land)
+[![Website collab.land](https://img.shields.io/website-up-down-green-red/https/collab.land/about)](https://collab.land)
 [![Blog](https://img.shields.io/badge/blog-up-green)](https://collabland.mirror.xyz/)
 [![Docs](https://img.shields.io/badge/docs-up-green)](https://docs.collab.land/)
 [![Discord](https://img.shields.io/discord/904119310702772254?label=discord)](https://discord.gg/collabland)
@@ -32,17 +32,15 @@ Please see [this PDF](guide/guide.pdf) overview.
 
 ### Logos
 
-![InProduct](logo/in-product/Logo-Mark-Color.svg)
+![InProduct](logo/in-product/CollabLand-Logo-Mark-Color.svg)
 
-| Symbol                                                  | Wordmark                                             |
-| ------------------------------------------------------- | ---------------------------------------------------- |
-| ![LogoColor](logo/symbol/Logo-Mark-Color.svg)           | ![WordmarkColor](logo/wordmark/Full-Logo-Color.svg)  |
-| ![LogoWhite](logo/symbol/Logo-Mark-White-Outline.svg)   | ![WordmarkWhite](logo/wordmark/Full-Logo-White-Outline.svg)  |
-| ![LogoBlack](logo/symbol/Logo-Mark-Black-Outline.svg)           | ![WordmarkBlack](logo/wordmark/Full-Logo-Black-Outline.svg)  |
-| ![SimpleFaceWhite](logo/symbol/Logo-Simple-Face-White.svg)   |  |
-| ![SimpleFaceColor](logo/symbol/Logo-Simple-Face-Color.svg)           |  |
-
-
+| Symbol                                                                | Wordmark                                                                |
+| --------------------------------------------------------------------  | ----------------------------------------------------------------------- |
+| ![LogoColor](logo/symbol/CollabLand-Logo-Mark-Color.svg)              | ![WordmarkColor](logo/wordmark/CollabLand-Full-Logo-Color.svg)          |
+| ![LogoWhite](logo/symbol/CollabLand-Logo-Mark-White-Outline.svg)      | ![WordmarkWhite](logo/wordmark/CollabLand-Full-Logo-White-Outline.svg)  |
+| ![LogoBlack](logo/symbol/CollabLand-Logo-Mark-Black-Outline.svg)      | ![WordmarkBlack](logo/wordmark/CollabLand-Full-Logo-Black-Outline.svg)  |
+| ![SimpleFaceWhite](logo/symbol/CollabLand-Logo-Simple-Face-White.svg) |                                                                         |
+| ![SimpleFaceColor](logo/symbol/CollabLand-Logo-Simple-Face-Color.svg) |                                                                         |
 
 ## Branding Kit Rules & Guidelines
 Thanks for your interest in your support for Collab.Land! You may use any of the branding within this folder as long as you adhere to the our [Terms of Service](https://www.collab.land/terms-of-service), and the guidlines defined below:
