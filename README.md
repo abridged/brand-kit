@@ -32,13 +32,13 @@ Please see [this PDF](guide/guide.pdf) overview.
 
 ### Logos
 
-![InProduct](logo/in-product/Base_Network_Logo.svg)
+![InProduct](logo/in-product/Logo-Mark-Color.svg)
 
-| Symbol                                            | Wordmark                                                |
-| ------------------------------------------------- | ------------------------------------------------------- |
-| ![SymbolBlue](logo/symbol/Base_Symbol_Blue.svg)   | ![WordmarkBlue](logo/wordmark/Base_Wordmark_Blue.svg)   |
-| ![SymbolWhite](logo/symbol/Base_Symbol_White.svg) | ![WordmarkWhite](logo/wordmark/Base_Wordmark_White.svg) |
-| ![SymbolBlack](logo/symbol/Base_Symbol_Black.svg) | ![WordmarkBlack](logo/wordmark/Base_Wordmark_Black.svg) |
+| Symbol                                                  | Wordmark                                             |
+| ------------------------------------------------------- | ---------------------------------------------------- |
+| ![LogoColor](logo/symbol/Logo-Mark-Color.svg)           | ![WordmarkColor](logo/wordmark/Full-Logo-Color.svg)  |
+| ![LogoWhite](logo/symbol/Logo-Mark-White_Outline.svg)   | ![WordmarkWhite](logo/wordmark/Full-Logo-White.svg)  |
+| ![LogoBlack](logo/symbol/Logo-Mark-Black.svg)           | ![WordmarkBlack](logo/wordmark/Full-Logo-Black.svg)  |
 
 ## Branding Kit Rules & Guidelines
 Thanks for your interest in showing your support for Mixer! You may use any of the branding within this folder as long as you adhere to the our Terms of Service, and the guidlines defined below:
