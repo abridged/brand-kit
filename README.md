@@ -45,7 +45,7 @@ Please see [this PDF](guide/guide.pdf) overview.
 
 
 ## Branding Kit Rules & Guidelines
-Thanks for your interest in showing your support for Mixer! You may use any of the branding within this folder as long as you adhere to the our Terms of Service, and the guidlines defined below:
+Thanks for your interest in your support for Collab.Land! You may use any of the branding within this folder as long as you adhere to the our [Terms of Service](https://www.collab.land/terms-of-service), and the guidlines defined below:
 
 ### What can I use this branding kit for?
 - Usage of contained images within your marketing material
