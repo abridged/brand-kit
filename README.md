@@ -37,8 +37,12 @@ Please see [this PDF](guide/guide.pdf) overview.
 | Symbol                                                  | Wordmark                                             |
 | ------------------------------------------------------- | ---------------------------------------------------- |
 | ![LogoColor](logo/symbol/Logo-Mark-Color.svg)           | ![WordmarkColor](logo/wordmark/Full-Logo-Color.svg)  |
-| ![LogoWhite](logo/symbol/Logo-Mark-White_Outline.svg)   | ![WordmarkWhite](logo/wordmark/Full-Logo-White.svg)  |
-| ![LogoBlack](logo/symbol/Logo-Mark-Black.svg)           | ![WordmarkBlack](logo/wordmark/Full-Logo-Black.svg)  |
+| ![LogoWhite](logo/symbol/Logo-Mark-White-Outline.svg)   | ![WordmarkWhite](logo/wordmark/Full-Logo-White-Outline.svg)  |
+| ![LogoBlack](logo/symbol/Logo-Mark-Black-Outline.svg)           | ![WordmarkBlack](logo/wordmark/Full-Logo-Black-Outline.svg)  |
+| ![SimpleFaceWhite](logo/symbol/Logo-Simple-Face-White.svg)   |  |
+| ![SimpleFaceColor](logo/symbol/Logo-Simple-Face-Color.svg)           |  |
+
+
 
 ## Branding Kit Rules & Guidelines
 Thanks for your interest in showing your support for Mixer! You may use any of the branding within this folder as long as you adhere to the our Terms of Service, and the guidlines defined below:
