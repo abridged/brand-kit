@@ -1,10 +1,10 @@
-This repo uses BASE as a reference https://github.com/base-org/brand-kit/tree/main
-and a lot of dynamic Badges https://shields.io/docs/
+<!-- This repo uses BASE as a reference https://github.com/base-org/brand-kit/tree/main
+and a lot of dynamic Badges https://shields.io/docs/ -->
 
 # Collab.Land brand-kit
 Brand guide and logos for the Collab.Land brand.
 
-Collab.Land is a low-cost community platform built to bring the next billion users onchain.
+Collab.Land is a low-cost community platform built to bring the next billion community members onchain.
 
 <!-- Badge row 1 - status -->
 
