@@ -28,11 +28,13 @@ Collab.Land is a low-cost community platform built to bring the next billion com
 
 ### Guide
 
-Please see [this PDF](guide/guide.pdf) overview.
+Please see [this PDF overview](guide/guide.pdf).
 
 ### Logos
 
-![InProduct](logo/in-product/CollabLand-Logo-Mark-Color.svg)
+<img alt="InProduct" src="logo/in-product/CollabLand-Logo-Mark-Color.svg" width="250"> |
+
+<!-- ![InProduct](logo/in-product/CollabLand-Logo-Mark-Color.svg) -->
 
 | Symbol                                                                | Wordmark                                                                |
 | --------------------------------------------------------------------  | ----------------------------------------------------------------------- |
@@ -44,10 +46,11 @@ Please see [this PDF](guide/guide.pdf) overview.
 
 | Mascot                                                      |
 | ----------------------------------------------------------- |
-| ![Mascot](mascot/CollabLand-Mascot-ACE-Regular.png)         |
-| ![MascotFlying](mascot/CollabLand-Mascot-ACE-Flying.png)    |
-| ![MascotDancing](mascot/CollabLand-Mascot-ACE-Dancing.png)  |
-| ![MascotWaving](mascot/CollabLand-Mascot-ACE-Waving.png)    |
+| <img alt="Mascot" src="mascot/CollabLand-Mascot-ACE-Regular.png" width="250"> |
+| <img alt="MascotFlying" src="mascot/CollabLand-Mascot-ACE-Flying.png" width="250"> |
+| <img alt="MascotDancing" src="mascot/CollabLand-Mascot-ACE-Dancing.png" width="250"> |
+| <img alt="MascotWaving" src="mascot/CollabLand-Mascot-ACE-Waving.png" width="250"> |
+
 
 ## Branding Kit Rules & Guidelines
 
