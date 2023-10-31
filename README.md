@@ -28,27 +28,41 @@ Collab.Land is a low-cost community platform built to bring the next billion com
 
 ### Guide
 
-Please see [this PDF](guide/guide.pdf) overview.
+Please see [this PDF overview](guide/guide.pdf).
 
 ### Logos
 
-![InProduct](logo/in-product/CollabLand-Logo-Mark-Color.svg)
+<img alt="InProduct" src="logo/in-product/CollabLand-Logo-Mark-Color.svg" width="250"> |
+
+<!-- ![InProduct](logo/in-product/CollabLand-Logo-Mark-Color.svg) -->
 
 | Symbol                                                                | Wordmark                                                                |
 | --------------------------------------------------------------------  | ----------------------------------------------------------------------- |
 | ![LogoColor](logo/symbol/CollabLand-Logo-Mark-Color.svg)              | ![WordmarkColor](logo/wordmark/CollabLand-Full-Logo-Color.svg)          |
 | ![LogoWhite](logo/symbol/CollabLand-Logo-Mark-White-Outline.svg)      | ![WordmarkWhite](logo/wordmark/CollabLand-Full-Logo-White-Outline.svg)  |
 | ![LogoBlack](logo/symbol/CollabLand-Logo-Mark-Black-Outline.svg)      | ![WordmarkBlack](logo/wordmark/CollabLand-Full-Logo-Black-Outline.svg)  |
-| ![SimpleFaceWhite](logo/symbol/CollabLand-Logo-Simple-Face-White.svg) |                                                                         |
-| ![SimpleFaceColor](logo/symbol/CollabLand-Logo-Simple-Face-Color.svg) |                                                                         |
+
+### Mascot
+
+| Mascot                                                      |
+| ----------------------------------------------------------- |
+| <img alt="Mascot" src="mascot/CollabLand-Mascot-ACE-Regular.png" width="250"> |
+| <img alt="MascotFlying" src="mascot/CollabLand-Mascot-ACE-Flying.png" width="250"> |
+| <img alt="MascotDancing" src="mascot/CollabLand-Mascot-ACE-Dancing.png" width="250"> |
+| <img alt="MascotWaving" src="mascot/CollabLand-Mascot-ACE-Waving.png" width="250"> |
+
 
 ## Branding Kit Rules & Guidelines
+
 Thanks for your interest in your support for Collab.Land! You may use any of the branding within this folder as long as you adhere to the our [Terms of Service](https://www.collab.land/terms-of-service), and the guidlines defined below:
 
 ### What can I use this branding kit for?
+
 - Usage of contained images within your marketing material
 - Showing your support for Collab.Land across social media platforms
+
 ### What can't I use this branding kit for?
+
 - You cannot use Collab.Land’s logos or assets to display yourself as an employee or official representing Collab.Land
 - You cannot use our logos or assets for commercial purposes (i.e., merchandising)
 - You may not modify the logos or assets in any way (distorting, changing colors, incorporating into your own branding, etc)
