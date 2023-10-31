@@ -32,7 +32,7 @@ Please see [this PDF overview](guide/guide.pdf).
 
 ### Logos
 
-<img alt="InProduct" src="logo/in-product/CollabLand-Logo-Mark-Color.svg" width="250"> |
+<img alt="InProduct" src="logo/in-product/CollabLand-Logo-Mark-Color.svg" width="250">
 
 <!-- ![InProduct](logo/in-product/CollabLand-Logo-Mark-Color.svg) -->
 
@@ -42,7 +42,7 @@ Please see [this PDF overview](guide/guide.pdf).
 | ![LogoWhite](logo/symbol/CollabLand-Logo-Mark-White-Outline.svg)      | ![WordmarkWhite](logo/wordmark/CollabLand-Full-Logo-White-Outline.svg)  |
 | ![LogoBlack](logo/symbol/CollabLand-Logo-Mark-Black-Outline.svg)      | ![WordmarkBlack](logo/wordmark/CollabLand-Full-Logo-Black-Outline.svg)  |
 
-### Mascot
+### Mascot - ACE
 
 | Mascot                                                      |
 | ----------------------------------------------------------- |
