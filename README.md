@@ -39,8 +39,6 @@ Please see [this PDF](guide/guide.pdf) overview.
 | ![LogoColor](logo/symbol/CollabLand-Logo-Mark-Color.svg)              | ![WordmarkColor](logo/wordmark/CollabLand-Full-Logo-Color.svg)          |
 | ![LogoWhite](logo/symbol/CollabLand-Logo-Mark-White-Outline.svg)      | ![WordmarkWhite](logo/wordmark/CollabLand-Full-Logo-White-Outline.svg)  |
 | ![LogoBlack](logo/symbol/CollabLand-Logo-Mark-Black-Outline.svg)      | ![WordmarkBlack](logo/wordmark/CollabLand-Full-Logo-Black-Outline.svg)  |
-| ![SimpleFaceWhite](logo/symbol/CollabLand-Logo-Simple-Face-White.svg) |                                                                         |
-| ![SimpleFaceColor](logo/symbol/CollabLand-Logo-Simple-Face-Color.svg) |                                                                         |
 
 ## Branding Kit Rules & Guidelines
 Thanks for your interest in your support for Collab.Land! You may use any of the branding within this folder as long as you adhere to the our [Terms of Service](https://www.collab.land/terms-of-service), and the guidlines defined below:
